@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi everone!
+
+I'm Paulina and I love dancing and flying.
+
+
